@@ -13,3 +13,9 @@ buildNumber.properties
 .idea
 logs
 *.iml
+
+*.index
+*.threads
+*.zip
+*.dump
+*.hprof
